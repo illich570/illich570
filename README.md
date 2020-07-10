@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi People 👋
 
-<!--
-**illich570/illich570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Illich Rada and I'm a Front-end developer,currently working with React ⚛️ since January 2020, but having experience in Angular too.
+Here some info about me:
 
-Here are some ideas to get you started:
+- 👨‍💻 I'm currently working with Gatsby and Express API in a tech consultoring company.
+- 🤓 I'm currently learning Python with Flask, TypeScript, and more good practices in Javascript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here some of my social Media if you want to see some projects or know more about me.
+- [Twitter](https://www.twitter.com/illichr)
+- [Codepen](https://www.codepen.io/illich570)
+- [Linkedin](https://www.linkedin.com/in/illich-rada/)
+
+Feel free to contact me! 👋🏻
