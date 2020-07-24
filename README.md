@@ -1,5 +1,7 @@
 ### Hi People 👋
 
+![ILLICH](https://user-images.githubusercontent.com/49048159/88420834-7ee60580-cdb5-11ea-9cc5-05c62162b923.png)
+
 My name is Illich Rada and I'm a Front-end developer,currently working with React ⚛️ since January 2020, but having experience in Angular too.
 Here some info about me:
 
