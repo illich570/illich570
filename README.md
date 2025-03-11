@@ -2,21 +2,10 @@
 
 ![ILLICH](https://user-images.githubusercontent.com/49048159/88420834-7ee60580-cdb5-11ea-9cc5-05c62162b923.png)
 
-Hi, I'm Illich 👋🏻 As an experienced Web Developer, I have proven expertise in all stages of advanced web development, from design to deployment. My knowledge extends to user interface development, testing, and debugging processes, ensuring seamless web performance. I possess strong self-management skills, enabling me to deliver timely and quality output on independent projects.
+Hey there, I’m Illich, a Fullstack Developer with over 4 years of experience, leaning heavily into frontend development. I’m proactive, self-taught, and quick to adapt, thriving in multidisciplinary teams on mission-critical products tied to healthcare and insurance policies. My expertise spans the full spectrum of product delivery—from requirement analysis to production deployment—always laser-focused on top-notch quality and aligned with business needs.
 
- I am equally adept in a team setting, collaborating effectively with colleagues to achieve project objectives. My detail-oriented approach allows me to manage multiple projects simultaneously while maintaining the highest standards of quality. Above all, my commitment to client satisfaction and event success ensures that every project is delivered to the highest standard.
+I’m well-versed in crafting user interfaces, running tests, debugging workflows, building APIs, and integrating third-party tech, all while leveraging modern tools to ensure every requirement is delivered at peak performance.
 
-Tech Stack:
-React.js
-Next.js
-TypeScript
-Node.js
-Python
-PostgreSQL
-PL/SQL
-- [Twitter](https://www.twitter.com/illichr)
-- [Codepen](https://www.codepen.io/illich570)
-- [Linkedin](https://www.linkedin.com/in/illich-rada)
-- [Gitlab](https://gitlab.com/illich570)
+Tech Stack: React.js, Next.js, Typescript, Node.js, Python, Fastify, FastAPI, PostgreSQL, AWS, Docker.
 
-Feel free to contact me! 👋🏻
+Let’s connect!
